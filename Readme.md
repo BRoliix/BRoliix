@@ -1,6 +1,6 @@
 ## Hello World!
 My Name is Rohil Sagar, Software AI Developer
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanay-m-a78243247/)]([[https://www.linkedin.com/in/tanay-m-a78243247/])
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanay-m-a78243247/)]([[https://www.linkedin.com/in/rohil-sagar-bb1043275/])
 
 ## Platforms 
 
