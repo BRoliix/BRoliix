@@ -85,10 +85,7 @@ Sites I built end to end (backend, hosting and upkeep all mine):
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BRoliix&show_icons=true&hide_border=true&bg_color=1a1020&title_color=f4a7b9&text_color=e8d5dc&icon_color=f4a7b9&ring_color=f4a7b9&border_radius=14&count_private=true" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRoliix&layout=compact&hide_border=true&bg_color=1a1020&title_color=f4a7b9&text_color=e8d5dc&border_radius=14&langs_count=6" alt="Top languages"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BRoliix&bg_color=1a1020&color=e8d5dc&line=f4a7b9&point=ffd3de&area=true&area_color=f4a7b9&hide_border=true&radius=14&title_color=f4a7b9" alt="Contribution graph"/>
+<img width="100%" src="https://streak-stats.demolab.com?user=BRoliix&theme=dark&hide_border=true&border_radius=14&background=1A1020&ring=F4A7B9&fire=F4A7B9&currStreakNum=FFF4EE&sideNums=FFF4EE&currStreakLabel=F4A7B9&sideLabels=E8D5DC&dates=B98FA0&stroke=3A2238" alt="GitHub streak"/>
 
 </div>
 
