@@ -32,7 +32,6 @@ Sites I built end to end (backend, hosting and upkeep all mine):
 | 🧬 | **[BioVision](https://biovision-bpdc.com)** | Inter-university biotech challenge. Custom backend where the timeline and phases come from the data, plus registrations |
 | 🌿 | **[GreenHawk](https://greenhawk.ae)** | Company site on a custom backend that takes in and routes customer enquiries |
 | 🎞️ | **[Creative portfolio](https://omer-portfolio-peach.vercel.app)** | My own upload backend that stores and serves the client's video and images |
-| 💳 | **[Tapify](https://tapify.netlify.app)** | NFC digital business cards: Next.js, Auth0 login, AED pricing |
 
 <img src="./assets/divider.svg" width="100%"/>
 
